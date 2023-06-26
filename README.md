@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 ---
 
-## 예정중인 프로젝트
+## 진행중인 프로젝트
 
 |No|프로젝트명|Repo|
 |-|-|-|
-|1|P-tuning을 적용한 대화 데이터 상황 요약 인공지능|[📂](https://github.com/sgr1118/P-tuning-based-Sentence-Summarization)|
+|1|ICR_kaggle_challenge|[📂](https://github.com/sgr1118/ICR_kaggle_Challenge)|
