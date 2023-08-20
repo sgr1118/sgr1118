@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 |No|프로젝트명|Repo|
 |-|-|-|
-|1|ICR_kaggle_challenge|[📂](https://github.com/sgr1118/ICR_kaggle_Challenge)|
+|1||[📂]()|
