@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 |No|프로젝트명|Repo|
 |-|-|-|
-|1|맥주 리뷰 데이터 감정 분석 인공지능|[📂](https://github.com/sgr1118/Beer_Sentiment_analysis)|
+|1|맥주 리뷰 데이터 감정 분석 인공지능|[📂](https://github.com/sgr1118/Bert_beer_sentiment_anlysis)|
 |2|대화 데이터 상황 요약 인공지능|[📂](https://github.com/AIFFEL-NLP-PROJECT/Aiffelthon)|
 
 ---
